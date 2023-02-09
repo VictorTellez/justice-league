@@ -1,4 +1,4 @@
-# Objetivos de la repositorio
+# Objetivos del repositorio
 
 This is a proyect from git course! 
 
