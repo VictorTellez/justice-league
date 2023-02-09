@@ -7,9 +7,8 @@ This is a proyect from git course!
 ### Update from github
 this is a message full edit from github
 
-<<<<<<< Updated upstream
 
 
 ### Hi world
-=======
->>>>>>> Stashed changes
+
+### Hi world
