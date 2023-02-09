@@ -2,4 +2,4 @@
 
 This is a proyect from git course! 
 
-# This changes are new
+# This changes are new from local repository
