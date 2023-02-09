@@ -2,4 +2,4 @@
 
 This is a proyect from git course! 
 
-## This changes are new from githun
+## This changes are new from github
