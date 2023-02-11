@@ -2,6 +2,7 @@
 
 # Learn _Markdown_
 
+<<<<<<< HEAD
 [URL](https://www.markdownguide.org/basic-syntax/) 
 <!-- Image from midjourney -->
 ![image](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/757af675-435b-4c00-9bd6-92a6a49ed006/dflfum6-38275be8-6ebe-4e13-b529-d4b53882a866.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1N2FmNjc1LTQzNWItNGMwMC05YmQ2LTkyYTZhNDllZDAwNlwvZGZsZnVtNi0zODI3NWJlOC02ZWJlLTRlMTMtYjUyOS1kNGI1Mzg4MmE4NjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5siYXp9ceoYx4T545Osqbadaon4UxGoLbM5D9leGLjA)
@@ -113,3 +114,29 @@ public class Main {
 ---
 
 ###### copyright 2022
+=======
+# This changes are made from local repository
+# This changes are made from github
+
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+
+
+* A
+* B
+* C
+* D
+* E
+  * a1
+  * a2
+  * a3
+  * a4
+
+![Github:Logo](https://cdn.midjourney.com/1b31202c-5e14-44f5-a4ee-844b08de7360/grid_0.png)
+
+this is a _text_
+>>>>>>> b3debebacc1d37acb086f19b5b07ab8bdba02eab
