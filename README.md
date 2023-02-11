@@ -2,7 +2,10 @@
 
 # Learn _Markdown_
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 [URL](https://www.markdownguide.org/basic-syntax/) 
 <!-- Image from midjourney -->
 ![image](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/757af675-435b-4c00-9bd6-92a6a49ed006/dflfum6-38275be8-6ebe-4e13-b529-d4b53882a866.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1N2FmNjc1LTQzNWItNGMwMC05YmQ2LTkyYTZhNDllZDAwNlwvZGZsZnVtNi0zODI3NWJlOC02ZWJlLTRlMTMtYjUyOS1kNGI1Mzg4MmE4NjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5siYXp9ceoYx4T545Osqbadaon4UxGoLbM5D9leGLjA)
@@ -113,4 +116,8 @@ public class Main {
 
 ---
 
+<<<<<<< Updated upstream
 ###### @ copyright 2022
+=======
+###### copyright 2022
+>>>>>>> Stashed changes
